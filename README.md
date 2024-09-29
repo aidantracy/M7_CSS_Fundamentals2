@@ -2,23 +2,27 @@
 
 ## Overview
 
-TODO: Write a project description
+This project introduces media queries for a more responsive layout as well as introducing grid and flex-box in detail. 
+
+## Setting Up
+
+To start, you will first need to clone into your designated project directory on your local machine. This can be done by
+
+```bash
+cd <your designated directory>
+
+git clone https://github.com/aidantracy/M7_CSS_Fundamentals2.git
+```
+Next, open this project in your favorite IDE that supports HTML and CSS (Recommended VS Code).
+
+If using VS code:
+```bash
+cd M7_CSS_Fundamentals2
+
+code .
+```
+This will open the project in VS Code. From there right click on the index.html file and click show preview. This will bring up a pane to the right. Then click on the hamburger menu in the upper right hand corner and select "open in browser". This will allow you to size the window by dragging a corner or side to simulate what the site would look like on different devices. 
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+I used all of the readings from this modules README as a reference to complete this project.
